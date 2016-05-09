@@ -33,6 +33,15 @@ Resets all playercells their location and id. Probably used to try to patch bots
 |0|1|Uint8|Packet ID|18|
 |?|?|?|?|?|
 
+<a name="serverpacket32" href="#serverpacket32"><h4>Packet 32 | Cell Ids</h4></a>
+
+Resets all playercells their location and id. Probably used to try to patch bots.
+
+|offset|Bytes|Data Type|Description|Default|
+|------|-----|---------|-----------|-------|
+|0|1|Uint32|Packet ID|32|
+|?|?|?|?|?|
+
 
 <a name="serverpacket49" href="#serverpacket49"><h4>Packet 49 | LeaderBoard</h4></a>
 
