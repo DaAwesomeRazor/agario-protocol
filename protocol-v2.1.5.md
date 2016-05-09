@@ -18,6 +18,7 @@ type.
 
 ### Index
  - [Packet 18 | Reset playercells](#serverpacket18)
+ - [Packet 32 | LeaderBoard](#serverpacket32)
  - [Packet 49 | LeaderBoard](#serverpacket49)
  - [Packet 64 | Viewport](#serverpacket64)
  - [Packet 255 | Cells update](#serverpacket255)
